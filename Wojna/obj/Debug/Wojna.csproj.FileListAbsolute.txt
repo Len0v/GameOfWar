@@ -1,6 +1,0 @@
-c:\users\len0v\documents\visual studio 2017\Projects\Wojna\Wojna\bin\Debug\Wojna.exe.config
-c:\users\len0v\documents\visual studio 2017\Projects\Wojna\Wojna\bin\Debug\Wojna.exe
-c:\users\len0v\documents\visual studio 2017\Projects\Wojna\Wojna\bin\Debug\Wojna.pdb
-c:\users\len0v\documents\visual studio 2017\Projects\Wojna\Wojna\obj\Debug\Wojna.csprojResolveAssemblyReference.cache
-c:\users\len0v\documents\visual studio 2017\Projects\Wojna\Wojna\obj\Debug\Wojna.exe
-c:\users\len0v\documents\visual studio 2017\Projects\Wojna\Wojna\obj\Debug\Wojna.pdb
