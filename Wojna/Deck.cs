@@ -27,21 +27,6 @@ namespace Wojna
                 deck.Add(new Card(CardEnum.Queen));
                 deck.Add(new Card(CardEnum.King));
                 deck.Add(new Card(CardEnum.Ace));
-                /*
-                deck.Add(new Card("Deuce", 1));
-                deck.Add(new Card("Three", 2));
-                deck.Add(new Card("Four", 3)); 
-                deck.Add(new Card("Five", 4));
-                deck.Add(new Card("Six", 5));
-                deck.Add(new Card("Seve", 6));
-                deck.Add(new Card("Eight", 7));
-                deck.Add(new Card("Nine", 8));
-                deck.Add(new Card("Ten", 9));
-                deck.Add(new Card("Jack", 10));
-                deck.Add(new Card("Queen", 11));
-                deck.Add(new Card("King", 12));
-                deck.Add(new Card("Ace", 13));
-                 */
             }
         }
 
